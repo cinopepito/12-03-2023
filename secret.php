@@ -15,7 +15,7 @@ if(isset($_POST['submit'])){
         echo'<h1>Voici le code source de la page<h1><br>';
         echo'<p>CDETR-DFJC-CKYR-PDRG</p><br>';
        }else{
-        echo'le code que vous avez entrer est faux';
+        echo'le code que vous avez entrer est faux donc essayer encore!';
        }
 }
 ?>
