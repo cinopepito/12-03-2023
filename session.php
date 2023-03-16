@@ -4,5 +4,5 @@ session_start();
 //on commence a creer quelques variables de la session dans $SESSION
 $SESSION['prenom']='jean';
 $SESSION['nom']='Dupont';
-$SESSION['age']='24;
+$SESSION['age']=24;
 ?>

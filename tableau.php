@@ -12,4 +12,8 @@ echo pi . $r;
 #declaration de pi
 define('g',9.8);
 echo g . $r;
+$tab = array(1,2,3);
+print_r($tab). $r;
+$tab = array(4,5,6);
+print_r($tab). $r;
 ?>
